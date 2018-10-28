@@ -1,0 +1,62 @@
+2018-10-28 19:04:05,577 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2018-10-28 19:04:05,594 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-10-28 19:04:05,594 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-10-28 19:04:05,595 INFO o.a.j.JMeter: Setting JMeter property: jmeter.save.saveservice.output_format=xml
+2018-10-28 19:04:05,599 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2018-10-28 19:04:05,599 INFO o.a.j.JMeter: Version 4.0 r1823414
+2018-10-28 19:04:05,599 INFO o.a.j.JMeter: java.version=1.8.0_131
+2018-10-28 19:04:05,599 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-10-28 19:04:05,599 INFO o.a.j.JMeter: os.name=Windows 10
+2018-10-28 19:04:05,599 INFO o.a.j.JMeter: os.arch=amd64
+2018-10-28 19:04:05,600 INFO o.a.j.JMeter: os.version=10.0
+2018-10-28 19:04:05,600 INFO o.a.j.JMeter: file.encoding=GBK
+2018-10-28 19:04:05,600 INFO o.a.j.JMeter: Max memory     =1883242496
+2018-10-28 19:04:05,600 INFO o.a.j.JMeter: Available Processors =8
+2018-10-28 19:04:05,606 INFO o.a.j.JMeter: Default Locale=中文 (中国)
+2018-10-28 19:04:05,606 INFO o.a.j.JMeter: JMeter  Locale=中文 (中国)
+2018-10-28 19:04:05,606 INFO o.a.j.JMeter: JMeterHome=D:\自动化\资料\apache-jmeter-4.0
+2018-10-28 19:04:05,606 INFO o.a.j.JMeter: user.dir  =D:\自动化\资料\apache-jmeter-4.0\bin
+2018-10-28 19:04:05,606 INFO o.a.j.JMeter: PWD       =D:\自动化\资料\apache-jmeter-4.0\bin
+2018-10-28 19:04:14,624 INFO o.a.j.JMeter: IP: 192.168.190.1 Name: DESKTOP-6FMFRPV FullName: DESKTOP-6FMFRPV
+2018-10-28 19:04:14,626 INFO o.a.j.s.FileServer: Default base='D:\自动化\资料\apache-jmeter-4.0\bin'
+2018-10-28 19:04:14,630 INFO o.a.j.s.FileServer: Set new base='D:\自动化\资料\apache-jmeter-4.0\testSuite\script'
+2018-10-28 19:04:14,741 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-10-28 19:04:14,752 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-10-28 19:04:14,759 INFO o.a.j.s.SaveService: Using SaveService properties version 4.0
+2018-10-28 19:04:14,765 INFO o.a.j.s.SaveService: Loading file: D:\自动化\资料\apache-jmeter-4.0\testSuite\script\测试.jmx
+2018-10-28 19:04:14,820 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2018-10-28 19:04:14,867 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-10-28 19:04:14,867 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-10-28 19:04:14,867 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-10-28 19:04:14,868 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-10-28 19:04:14,868 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-10-28 19:04:14,868 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-10-28 19:04:14,898 INFO o.a.j.JMeter: Creating summariser <summary>
+2018-10-28 19:04:14,902 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-10-28 19:04:14,903 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-10-28 19:04:14,903 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-10-28 19:04:14,908 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-10-28 19:04:14,908 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-10-28 19:04:15,273 INFO o.a.j.JMeter: 正在运行的测试 (1540724655273)
+2018-10-28 19:04:15,314 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : 实战
+2018-10-28 19:04:15,314 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group 实战.
+2018-10-28 19:04:15,314 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-10-28 19:04:15,315 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=0 perThread=0.0 delayedStart=false
+2018-10-28 19:04:15,321 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-10-28 19:04:15,321 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-10-28 19:04:15,330 INFO o.a.j.t.JMeterThread: Thread started: 实战 1-1
+2018-10-28 19:04:15,331 INFO o.a.j.s.FileServer: Stored: D:\自动化\资料\test.txt
+2018-10-28 19:04:45,336 WARN o.a.j.t.SyncTimer: SyncTimer Synchronizing Timer timeouted waiting for users after: 30000ms
+2018-10-28 19:04:45,347 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-6FMFRPV
+2018-10-28 19:04:45,351 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2018-10-28 19:04:45,360 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-10-28 19:04:45,360 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to utf-8
+2018-10-28 19:04:45,360 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-10-28 19:04:45,360 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-10-28 19:05:15,678 WARN o.a.j.t.SyncTimer: SyncTimer Synchronizing Timer timeouted waiting for users after: 30000ms
+2018-10-28 19:05:46,233 WARN o.a.j.t.SyncTimer: SyncTimer Synchronizing Timer timeouted waiting for users after: 30000ms
+2018-10-28 19:05:46,625 INFO o.a.j.t.JMeterThread: Thread is done: 实战 1-1
+2018-10-28 19:05:46,625 INFO o.a.j.t.JMeterThread: Thread finished: 实战 1-1
+2018-10-28 19:05:46,625 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-10-28 19:05:46,625 INFO o.a.j.s.FileServer: Close: D:\自动化\资料\test.txt
+2018-10-28 19:05:46,627 INFO o.a.j.r.Summariser: summary =      3 in 00:01:31 =    0.0/s Avg:   288 Min:   235 Max:   316 Err:     0 (0.00%)
